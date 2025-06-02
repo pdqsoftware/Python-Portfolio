@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6829502-c333-42df-94b9-6f0aea7ec4e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LearnToSpeakFrench/data/french_words.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnToSpeakFrench/data/french_words_orig.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnToSpeakFrench/data/more_french_words.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnToSpeakFrench/images/card_back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnToSpeakFrench/images/card_front.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnToSpeakFrench/images/right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnToSpeakFrench/images/wrong.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnToSpeakFrench/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +15,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2xlLGkKb3vOm7YjIKmhXhaj61If" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,12 +27,13 @@
   "keyToString": {
     "Python.cli_alarm_clock.executor": "Run",
     "Python.cli_calculator.executor": "Run",
+    "Python.gui_alarm_clock.executor": "Run",
     "Python.gui_calculator.executor": "Run",
     "Python.main.executor": "Run",
     "Python.regex.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/PDP/Python/Python-Portfolio/LearnToSpeakFrench"
+    "last_opened_file_path": "C:/PDP/Python/Python-Portfolio"
   }
 }]]></component>
   <component name="RecentsManager">
