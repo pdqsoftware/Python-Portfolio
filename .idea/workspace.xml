@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6829502-c333-42df-94b9-6f0aea7ec4e6" name="Changes" comment="" />
+    <list default="true" id="c6829502-c333-42df-94b9-6f0aea7ec4e6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockTradingNewsAlert/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/StockTradingNewsAlert/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,11 +34,12 @@
     "Python.regex.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/PDP/Python/Python-Portfolio"
+    "last_opened_file_path": "C:/PDP/Python/Python-Portfolio/StockTradingNewsAlert"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PDP\Python\Python-Portfolio\StockTradingNewsAlert" />
       <recent name="C:\PDP\Python\Python-Portfolio\LearnToSpeakFrench" />
       <recent name="C:\PDP\Python\Python-Portfolio" />
     </key>
