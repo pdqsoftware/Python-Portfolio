@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6829502-c333-42df-94b9-6f0aea7ec4e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/FunctionAnomalies1/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FunctionAnomalies2/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunctionAnomalies1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/FunctionAnomalies/example1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunctionAnomalies2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/FunctionAnomalies/example2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +28,7 @@
   "keyToString": {
     "Python.cli_alarm_clock.executor": "Run",
     "Python.cli_calculator.executor": "Run",
+    "Python.example1.executor": "Run",
     "Python.gui_alarm_clock.executor": "Run",
     "Python.gui_calculator.executor": "Run",
     "Python.main.executor": "Run",
@@ -40,9 +40,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PDP\Python\Python-Portfolio" />
       <recent name="C:\PDP\Python\Python-Portfolio\StockTradingNewsAlert" />
       <recent name="C:\PDP\Python\Python-Portfolio\LearnToSpeakFrench" />
-      <recent name="C:\PDP\Python\Python-Portfolio" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PDP\Python\Python-Portfolio\FunctionAnomalies" />
     </key>
   </component>
   <component name="SharedIndexes">
