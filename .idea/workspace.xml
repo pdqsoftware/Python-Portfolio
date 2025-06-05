@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6829502-c333-42df-94b9-6f0aea7ec4e6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/FunctionAnomalies/example2.py" beforeDir="false" afterPath="$PROJECT_DIR$/FunctionAnomalies/example2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +29,12 @@
     "Python.cli_calculator.executor": "Run",
     "Python.example1.executor": "Run",
     "Python.example2.executor": "Run",
+    "Python.fizzbuzz.executor": "Run",
     "Python.gui_alarm_clock.executor": "Run",
     "Python.gui_calculator.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.other.executor": "Run",
+    "Python.other2.executor": "Run",
     "Python.regex.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -45,6 +48,7 @@
       <recent name="C:\PDP\Python\Python-Portfolio\LearnToSpeakFrench" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PDP\Python\Python-Portfolio\FizzBuzz" />
       <recent name="C:\PDP\Python\Python-Portfolio\FunctionAnomalies" />
     </key>
   </component>
@@ -84,6 +88,11 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/HabitTracker/main.py</url>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FizzBuzz/fizzbuzz.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
