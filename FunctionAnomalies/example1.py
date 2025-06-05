@@ -15,7 +15,6 @@ def log_record(message, log_time=datetime.now()):
 
 print("The following two console outputs should have different times associated with them.\n"
       "They should differ by 4 seconds - the time difference between two calls to the same function:")
-time.sleep(4)
 log_record("First log record")
 print("Waiting 4 seconds...")
 time.sleep(4)
