@@ -5,6 +5,7 @@
 def fizzbuzz_1(starting_integer, ending_integer):
 
     result = []
+    sequence = None
 
     for number in range(starting_integer, ending_integer + 1):
         if number % 15 == 0:

@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6829502-c333-42df-94b9-6f0aea7ec4e6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Playground/scrabble-words-lookup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scrabble/scrabble-words-lookup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scrabble/sowpods-short.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scrabble/sowpods.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/fizzbuzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzz/fizzbuzz.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,18 +41,21 @@
     "Python.other.executor": "Run",
     "Python.other2.executor": "Run",
     "Python.regex.executor": "Run",
+    "Python.scrabble-words-lookup.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/PDP/Python/Python-Portfolio"
+    "last_opened_file_path": "C:/PDP/Python/Python-Portfolio/Scrabble"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PDP\Python\Python-Portfolio\Scrabble" />
       <recent name="C:\PDP\Python\Python-Portfolio" />
       <recent name="C:\PDP\Python\Python-Portfolio\StockTradingNewsAlert" />
       <recent name="C:\PDP\Python\Python-Portfolio\LearnToSpeakFrench" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PDP\Python\Python-Portfolio\Playground" />
       <recent name="C:\PDP\Python\Python-Portfolio\FizzBuzz" />
       <recent name="C:\PDP\Python\Python-Portfolio\FunctionAnomalies" />
     </key>
