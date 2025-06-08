@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6829502-c333-42df-94b9-6f0aea7ec4e6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Zen/this.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +39,7 @@
     "Python.other2.executor": "Run",
     "Python.regex.executor": "Run",
     "Python.scrabble-words-lookup.executor": "Run",
+    "Python.this.executor": "Run",
     "Python.who.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -51,6 +54,7 @@
       <recent name="C:\PDP\Python\Python-Portfolio\LearnToSpeakFrench" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PDP\Python\Python-Portfolio\Zen" />
       <recent name="C:\PDP\Python\Python-Portfolio\ISS" />
       <recent name="C:\PDP\Python\Python-Portfolio\Playground" />
       <recent name="C:\PDP\Python\Python-Portfolio\FizzBuzz" />
