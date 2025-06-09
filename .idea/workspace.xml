@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6829502-c333-42df-94b9-6f0aea7ec4e6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/FastApi/SolarSystem/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastApi/SolarSystem/other.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastApi/SolarSystem/planet_info.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
