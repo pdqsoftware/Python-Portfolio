@@ -1,5 +1,5 @@
 import sys
-from os import startfile
+
 
 NUMBER_OF_LETTERS_IN_HAND = 7
 
