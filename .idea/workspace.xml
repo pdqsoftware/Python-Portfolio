@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6829502-c333-42df-94b9-6f0aea7ec4e6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Scrabble/scrabble-words-lookup.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scrabble/scrabble-words-lookup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +27,7 @@
   "keyToString": {
     "Python.cli_alarm_clock.executor": "Run",
     "Python.cli_calculator.executor": "Run",
+    "Python.data.executor": "Run",
     "Python.example1.executor": "Run",
     "Python.example2.executor": "Run",
     "Python.fizzbuzz.executor": "Run",
