@@ -1,5 +1,4 @@
 import os
-from idlelib.colorizer import color_config
 from tkinter import *
 import pandas
 import random
